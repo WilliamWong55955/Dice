@@ -1,7 +1,4 @@
-void settings()
-{
-  size(500,400);
-}
+
 
 void setup()
   {
