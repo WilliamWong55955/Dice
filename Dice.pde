@@ -5,6 +5,7 @@ void settings()
 
 void setup()
   {
+  size(500,400);
       noLoop();
   }
   void draw()
